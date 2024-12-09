@@ -1,0 +1,12 @@
+{
+    "requestType": "distances",
+    "places": [
+        {"name": "Fort Collins, Colorado", "latitude": 40.52509767120955, "longitude": -105.06983140217429},
+        {"name": "Rome, Italy", "latitude": 41.90305264771538, "longitude": 12.466355130870177},
+        {"name": "Vila Regina, Argentina", "latitude": -39.098737346397584, "longitude": -67.08541124511255},
+        {"name": "Norfolk Island", "latitude": -29.032186550359754, "longitude": 167.94708683534546}
+    ],
+    "earthRadius"   : 28980,
+    "formula"       : "haversine",
+    "distances"     : []
+}
